@@ -92,7 +92,6 @@
 1628,1664,0,Counselor's Guild,guild,yellow
 370,899,0,Court of Truth,landmark,yellow
 2260,1206,0,Cove,town,yellow,1
-2343,1259,0,Cove Moongate,moongate,yellow
 2229,1200,0,Cove Bank,bank,yellow
 2256,1181,0,Cove Dock,docks,yellow
 2260,1231,0,Cove Stables,stables,yellow
@@ -377,7 +376,6 @@
 3002,3350,0,Serpent's Spells,mage,yellow
 5470,3515,0,Serpent's Cousins,Terrain,yellow
 2905,3517,0,Serpent's Hold Stablery,stables,yellow
-2983,3551,0,Serpent's Hold Moongate,moongate,yellow
 1492,1641,0,sewer entrance,dungeon,yellow,1
 5902,3106,0,Shallow Sea,Body,yellow
 5396,129,0,Shame,exit,yellow
@@ -536,7 +534,6 @@
 3706,2637,0,Ocllo Bowyers,bowyer,yellow
 3747,2683,0,Ocllo Cavern,dungeon,yellow,1
 3351,2695,0,Ocllo Cavern,dungeon,yellow,1
-3724,2500,0,Ocllo Moongate,moongate,yellow
 3498,2791,0,bridge,bridge,yellow
 3739,2596,0,Cotton Fields,interest,yellow
 3638,2499,0,Paint and More,painter,yellow
