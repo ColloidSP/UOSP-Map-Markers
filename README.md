@@ -1,18 +1,16 @@
-# ClassicUO World Map Markers for UO:Renaissance
+# ClassicUO World Map Markers for [UO:Siege Perilous](https://game-master.net/)
 
 A simple repository to store the map marker points to be used with the World Map in the [ClassicUO](https://github.com/andreakarasho/ClassicUO) client.
-
-While the vast majority of the locations in these markers will apply to any Felucca map, these have been updated to only include areas specifically found on [UO:Renaissance](http://www.uorenaissance.com/).
 
 ![example](https://imgur.com/jvjntAD.gif)
 
 ## Installation
 
-- [Download](https://github.com/markdwags/uor-markers/archive/master.zip) this repository.
+- [Download](https://github.com/ColloidSP/UOSP-Map-Markers/archive/master.zip) this repository.
 - Extract all the files into `Data\Client` located at the root of the ClassicUO folder.
 - Open the World Map or right-click and select `Reload markers`.
 
-If you just want to download the map icons, [click here](https://raw.githubusercontent.com/markdwags/uor-markers/master/MapIcons.zip).
+If you just want to download the map icons, [click here](https://raw.githubusercontent.com/ColloidSP/UOSP-Map-Markers/master/MapIcons.zip).
 
 ## Format
 
@@ -31,3 +29,13 @@ The `iconname` must match the name of the image in the `Data\Client\MapIcons` fo
 For `color`, the supported values are `red, green, blue, purple, black, yellow, white, none`.
 
 `zoom level` defines when the icon will show/hide when zooming.  `0 = furthest` and `9 = closest` so if you had a marker zoom level set to 1 (for example dungeon entrances), it will show at any zoom level except if you're all the way out (at 0). Default level is 3.
+
+## Helping
+
+If you want to make improvements or help out, submit a Pull Request or message
+Colloid on the [UO:Siege Perilous Discord](https://discord.gg/GwRuSV9vAb).
+
+## Acknowledgements
+
+These markers are forked from the [UO:Renaissance map markers](https://github.com/markdwags/uor-markers)
+repository kindly provided by [Quick](https://github.com/markdwags/).
