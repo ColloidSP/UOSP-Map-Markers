@@ -1,6 +1,11 @@
-# ClassicUO World Map Markers for [UO:Siege Perilous](https://game-master.net/)
+<h1 align="center">
+    <a href="https://game-master.net/">UO:Siege Perilous</a><br>
+    <img src="https://raw.github.com/ColloidSP/UOSPLinux/main/uo-siege-perilous-icon.png" width="100"><br>
+    <a href="https://www.classicuo.eu/">ClassicUO</a> World Map Markers
+</h1>
 
-A simple repository to store the map marker points to be used with the World Map in the [ClassicUO](https://github.com/andreakarasho/ClassicUO) client.
+A simple repository to store the map marker points to be used with the World Map in the
+[ClassicUO](https://www.classicuo.eu/) client.
 
 ![example](https://imgur.com/jvjntAD.gif)
 
