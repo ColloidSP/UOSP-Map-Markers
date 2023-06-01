@@ -516,7 +516,6 @@
 3665,2531,0,The Bardic Guild,bardic,yellow
 3602,2615,0,Better Leather Tannery,tanner,yellow
 3673,2614,0,The Bountiful Harvest,inn,yellow
-3667,2502,0,Counselor's Guild Hall,guild,yellow
 3685,2477,0,First Academy of Music,theater,yellow
 3632,2595,0,Hammer and Steel Smithy,arms,yellow
 3629,2608,0,Healer of Ocllo,healer,yellow
@@ -526,20 +525,12 @@
 3664,2558,0,Ocllo,town,yellow,1
 3647,2681,0,Ocllo Docks,docks,yellow
 3612,2466,0,Ocllo Public Library,library,yellow
-3607,2525,0,Ocllo Stables,stables,yellow
-3667,2463,0,Ocllo Caverns/Sewers,dungeon,yellow,1
-3604,2492,0,Ocllo Sewers,dungeon,yellow,1
-3717,2463,0,Ocllo Miners Guild,miners,yellow
 3499,2483,0,Ocllo Orc Fort,ruins,yellow
 3358,2676,0,Ocllo Pirate Fort,thieves,yellow
 3524,2860,0,Ocllo Mage Tower,mage,yellow
 3528,2884,0,Ocllo Mage Dungeon,dungeon,yellow,1
-3683,2556,0,Ocllo Woodworker,carpenter,yellow
-3706,2637,0,Ocllo Bowyers,bowyer,yellow
-3747,2683,0,Ocllo Cavern,dungeon,yellow,1
 3351,2695,0,Ocllo Cavern,dungeon,yellow,1
 3498,2791,0,bridge,bridge,yellow
-3739,2596,0,Cotton Fields,interest,yellow
 3638,2499,0,Paint and More,painter,yellow
 3717,1228,0,Seaborne Ships,customs,yellow
 3628,2541,0,The Sorceror's Guild,mage,yellow
